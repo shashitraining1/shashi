@@ -3,7 +3,8 @@ welcome to kichen
 kheer
 pasta
 
-
+beans
+pizza
 
 
 
